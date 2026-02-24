@@ -1,0 +1,27 @@
+---
+title: "test-document"
+author: "isaac miller"
+format: docx
+---
+
+This is a test document!
+
+Here is some code:
+
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
